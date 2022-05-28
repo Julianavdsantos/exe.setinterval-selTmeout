@@ -1,0 +1,28 @@
+@import url(https://fonts.googleapis.com/css?family=League+Script);
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  text-align: center;
+  margin: 20vh auto;
+  background-color: black;
+}
+
+h1 {
+  color: #ff1f9a;
+}
+
+p {
+  font-size: 40px;
+  color: #1fff32;
+  font-family: 'LearningCurveProRegular';
+}
+
+button {
+  width: 90px;
+  background-color: #ff1f9a;
+  color: rgb(7, 7, 8);
+}
